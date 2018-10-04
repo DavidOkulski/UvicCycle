@@ -1,0 +1,4 @@
+#Sat Sep 15 15:43:19 PDT 2018
+base.0=/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

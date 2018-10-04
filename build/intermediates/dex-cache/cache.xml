@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/ec35a81a76e4d92c6cefd278c7ae8806db2d336a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_0f1b60583ee1a045a9ae18dc1232eea638952720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/d3ce0fd495d6ca084f009d238184451a034ef6df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a341f8c90920e28d447e0312a3c058402dde1b9a">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_95432902eeabb1bc54f7d2e4496dd33e248f5df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/c5163f35173d8d277117636d8c7af30a61c1ad9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_48f4513a6c3c1b7ad62bba4743d986cea36a3e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/081ad8fdf7217b90dcf9678b3c1a009903cd0f4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_41811615b2a7afa377f90aecf608296e6699af05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/504fd56b4ac87420d5e08b5f7c32c5f1f49873a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_4499bd5c17f698f5e62e0fdbb687f300131f5237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/068736c577d117b669d1598680989a5570c5b1f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_e875c8f4a1b15bacb687c7e4840034951f2688ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_7ed81d809eb4a59c40a1c25aa6c980f73ff30c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/cb112239bd177933e090bff8ecb78c3bce70d6ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_b89db96070ca77e9490eb2827b06c0203ce3ba45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_75782aceb9fb43766bbe17587c632ff00100669f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/776a2618cf934ed581949d363f0fc13455075f22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f552156e824f318819b664ab932f61d12cfa2f4">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_f7f5fc9c52d19bc7050fc40552d1f16119a55f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/22bf599feeeffc01086407d287bae2ddf3733ea0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_c18c4536a3edaa74be55208e3740d6ee2b1b8438.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28118aba477b729cdad0ab4b0c99199a1305edda">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1248f83c9ec2d594764d04238e1e7b69c682ac31/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/e3dab12bb53562c15ec0b4f8c9de09adc103c46a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_5b27dfc649ba776ca50b4620c50df4d95f52fc8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/f73efa8ba7688874d0a570c7d433d741bb9ac09c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_8f2e0dcd0e7697b3baa295f558d46606bed43fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/cc6f8a1f834352e26c3cb1acc11ddcd176ec3577/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_0fc8a0722bf8d495473123a2fb0a0c5ad5042bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/79d11e7e9057e9e269abcf172b37f9ce2951b35a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5423d080755901cc399daa76490ee65820e75fb">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_7ad236d417de1e206b890e7324b4d54b8e617d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/d7e9d73319bd913c08dcd551e62657d7d23174f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_09d793a5452547b24721108bc50a871f5459c2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/3e012ed03d198302abeae58d0fdfa5f6f177b98c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_e06e2e16ff6aa25ac2f3738de3ad6e56305c8f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidokulski/.android/build-cache/cc3165e150d12716a7f80eaf9ad6c2aa11654f3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/pre-dexed/debug/classes_cd169d1e875f97c3518b3d1f6ec0d59c5ef77b14.jar" />
+    </item>
+
+</items>

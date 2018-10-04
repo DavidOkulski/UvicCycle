@@ -1,0 +1,7 @@
+#Sat Sep 15 16:31:18 PDT 2018
+base.0=/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1248f83c9ec2d594764d04238e1e7b69c682ac31
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_75782aceb9fb43766bbe17587c632ff00100669f/classes.dex
+base.1=/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_75782aceb9fb43766bbe17587c632ff00100669f
+file.0=/Users/davidokulski/Downloads/UVICappFinal/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1248f83c9ec2d594764d04238e1e7b69c682ac31/classes.dex
