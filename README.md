@@ -18,7 +18,7 @@ A quick destination filter that allows the cyclist to quickly navigate the user 
 <br />
 <br />
 
-Integrated with the one card system, it would show which bike locks are open and closed.Then it would allow the user to navigate to the bike lock using Google Maps.
+Integrated with the one card system, it would show which bike locks are open and closed. Then it would allow the user to navigate to the bike lock using Google Maps navigation.
 <br />
 <br />
 <p align="center"
@@ -28,7 +28,7 @@ float="left">
 </p>
 <br />
 
- A kilometer tracker that would let the user see how many kilometers they have biked.
+ A distance tracker that would let the user see how many kilometers they have biked on campus.
 <br />
 <br />
 <p align="center">
@@ -37,7 +37,7 @@ float="left">
 <br />
 <br />
 
-Integrated with the one card system, it would show which showers are available around campus.hen it would allow the user to navigate to the shower using Google Maps.
+Integrated with the one card system, it would show which showers are available around campus and then it would allow the user to navigate to it using Google Maps.
 <br />
 <br />
 <p align="center"
